@@ -1,5 +1,12 @@
 # PTSDpilot_prescreen
-Analysis in R for scoring prescreen surveys for AU24 PTSD pilot
+
+Information about participant exclusion: (1) exclude participants with PTSD symptoms after exposure to traumatic event: score over 4 or 5 (2) exclude PHQ score over 10 (3) exclude anyone with phobias
+
+Link to PC-PTSD screen scoring: https://www.ptsd.va.gov/professional/assessment/screens/pc-ptsd.asp 
+
+Link to OneDrive for questionnaire scoring: https://uwnetid-my.sharepoint.com/:f:/r/personal/lxiny_uw_edu/Documents/CCDL/PTSD%20pilot/Lab_use_Questionnaires?csf=1&web=1&e=GgYqYs 
+
+## Analysis in R for scoring prescreen surveys for AU24 PTSD pilot
 
 Note Nov5 downloaded file is downloaded as "values" and Nov6 as "labels". USE VALUES. Labels is a hassle.
 
